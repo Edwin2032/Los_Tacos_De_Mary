@@ -1,0 +1,150 @@
+.u-section-1 {
+  background-image: url("images/fer-min1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 686px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 26px 504px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  text-shadow: 0 0 16px rgba(0,0,0,1);
+  margin: 26px 531px 0 14px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 4.5rem;
+  margin: 61px 504px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.5rem;
+  text-shadow: 0 0 16px rgba(0,0,0,1);
+  margin: 35px 545px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 566px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 304px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 345px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 304px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 345px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 434px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 84px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-right: 282px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 380px;
+    margin-right: 84px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -284px;
+    margin-right: 125px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 152px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 386px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -290px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    background-position: 69.43% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 205px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+    margin-top: 500px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: -364px;
+  }
+}
+nav{
+  position:fixed;
+  top:0;
+  background-color: #000000;
+  width: 100%;
+  text-align: right;
+  height: 50px;
+}
+nav a{
+  text-decoration: none;
+  color:rgb(245, 149, 149);
+  
+  font-size: 1.7em;
+  display: inline-block;
+  padding:10px 15px;
+
+}
+
+
